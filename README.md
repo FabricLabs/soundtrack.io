@@ -35,7 +35,7 @@ To enable earning, be sure to provide `FABRIC_SEED` with a mnemonic and use:
 $ soundtrack --earn
 ```
 
-Be sure to back up your keys — we are not responsble for any losses!
+Be sure to back up your keys — we are not responsible for any losses!
 
 ## API
 `TODO: npm run make:api`
